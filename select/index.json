@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Loo% Who%",
+  "base_artist": "凛として時雨",
+  "createdAt": "2026-02-22T12:59:35.733284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loo% Who%",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/01_Loo__Who_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loo% Who%",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_Loo__Who_凛として時雨.txt"
+    }
+  ]
+}
